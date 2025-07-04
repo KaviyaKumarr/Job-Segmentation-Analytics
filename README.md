@@ -7,11 +7,11 @@ This project focuses on analyzing Data Analyst job listings using NLP and cluste
 - Used Natural Language Processing (NLP) to analyze and vectorize job descriptions
 
 - Applied clustering to group roles based on skill sets, tools and requirements
-  
+
 - Built a Power BI dashboard to explore:
-    1.Role-based job clusters
-    2.Most in-demand skill
-    3.Experience and location trends
+   - Role-based job clusters
+   - Most in-demand skill
+   - Experience and location trends
 
 # 🛠Tools & Technologies
  Python (Data & Modeling)
