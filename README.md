@@ -20,9 +20,10 @@ This project focuses on analyzing Data Analyst job listings using NLP and cluste
 - Pandas, NumPy : for data wrangling
 
 - Scikit-learn :
-  1.TF-IDF to extract keyword importance from descriptions
-  2. PCA for dimensionality reduction
-  3.KMeans for job segmentation (optimized using the Elbow method)
+   - TF-IDF to extract keyword importance from descriptions
+   - PCA for dimensionality reduction
+   - KMeans for job segmentation (optimized using the Elbow method)
+
 
 # NLP
 - Vectorized job descriptions using TF-IDF
